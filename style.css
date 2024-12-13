@@ -1,0 +1,40 @@
+* {
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #244242;
+    color: #ffe8b3;
+}
+
+.logo,
+img {
+    width: 80%;
+}
+
+.erro {
+    color: red;
+    display: none;
+}
+
+.grupo {
+    padding: 10px;
+}
+
+input {
+    outline: none;
+}
+
+input.invalido {
+    border: solid 2px red;
+}
+
+h1{
+    font-size: 60px;
+    padding: 31px;
+}
+
+.servicos{
+    border: solid red;
+}
+
